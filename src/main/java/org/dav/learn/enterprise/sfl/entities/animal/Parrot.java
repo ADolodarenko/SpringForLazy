@@ -1,15 +1,15 @@
-package org.dav.learn.enterprise.sfl.entities;
+package org.dav.learn.enterprise.sfl.entities.animal;
 
 import org.springframework.stereotype.Component;
 
-@Component
-public class Cat
+@Component("parrot-fucker")
+public class Parrot
 {
 	private String name;
 
-	public Cat()
+	public Parrot()
 	{
-		name = "The Cat!";
+		name = "The Parrot!";
 	}
 
 	public void setName(String name)

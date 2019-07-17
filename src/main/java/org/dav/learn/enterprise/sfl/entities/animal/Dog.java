@@ -1,4 +1,4 @@
-package org.dav.learn.enterprise.sfl.entities;
+package org.dav.learn.enterprise.sfl.entities.animal;
 
 import org.springframework.stereotype.Component;
 
